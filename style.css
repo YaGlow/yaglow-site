@@ -77,3 +77,18 @@ footer {
   font-size: 0.9em;
   color: #666;
 }
+.botao-comprar {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #25D366;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-top: 10px;
+  transition: background 0.3s ease;
+}
+
+.botao-comprar:hover {
+  background-color: #1ebe5d;
+}
